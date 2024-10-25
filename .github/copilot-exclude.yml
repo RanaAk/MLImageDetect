@@ -1,0 +1,2 @@
+# This file tells GitHub to exclude this repository from being used to improve GitHub Copilot.
+exclude: true
