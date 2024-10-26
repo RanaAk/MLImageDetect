@@ -32,7 +32,7 @@
 
 ## ScreenShorts 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="300"> 
+  <img src="MLImageDetect/screenshots/screenshot1.png" width="300"> 
 </p>
 
 ## ResNet50FP16 Model
